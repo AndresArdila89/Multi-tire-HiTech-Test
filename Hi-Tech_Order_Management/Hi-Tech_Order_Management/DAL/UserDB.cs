@@ -68,12 +68,12 @@ namespace Hi_Tech_Order_Management.DAL
             cmdSelect.Connection = conn;
 
             SqlDataReader dataReader = cmdSelect.ExecuteReader();
-         
+            dataReader.Read();
                 User tempUser = new User();
                 tempUser.UserID = Convert.ToInt32(dataReader["UserId"]);
                 tempUser.Password = dataReader["Password"].ToString();
                 tempUser.JobTitle = dataReader["JobTitle"].ToString();
-                tempUser.UserStatus = dataReader["Status"].ToString();
+                tempUser.UserStatus = dataReader["UserStatus"].ToString();
 
             conn.Close();
             return tempUser;

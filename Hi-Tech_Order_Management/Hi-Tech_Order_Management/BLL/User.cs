@@ -32,7 +32,7 @@ namespace Hi_Tech_Order_Management.BLL
 
         public static User ReadUserInfo(int userId)
         {
-
+            return UserDB.ReadRecord(userId);
         }
 
 

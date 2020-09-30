@@ -16,5 +16,12 @@ namespace Hi_Tech_Order_Management.GUI
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+
     }
 }
