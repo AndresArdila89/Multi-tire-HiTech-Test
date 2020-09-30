@@ -1,0 +1,9 @@
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\bin\Debug\Hi-Tech_Order_Management.exe.config
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\bin\Debug\Hi-Tech_Order_Management.exe
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\bin\Debug\Hi-Tech_Order_Management.pdb
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\obj\Debug\Hi-Tech_Order_Management.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\obj\Debug\Hi_Tech_Order_Management.Properties.Resources.resources
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\obj\Debug\Hi-Tech_Order_Management.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\obj\Debug\Hi-Tech_Order_Management.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\obj\Debug\Hi-Tech_Order_Management.exe
+C:\Users\andre\OneDrive\Desktop\3rd semester\Multi-tire Applications\Review_Test\Hi-Tech_Order_Management\Hi-Tech_Order_Management\obj\Debug\Hi-Tech_Order_Management.pdb
