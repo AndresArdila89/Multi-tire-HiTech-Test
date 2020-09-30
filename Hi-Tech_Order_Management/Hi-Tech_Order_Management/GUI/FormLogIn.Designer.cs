@@ -67,7 +67,6 @@
             this.textBoxUserId.Name = "textBoxUserId";
             this.textBoxUserId.Size = new System.Drawing.Size(316, 26);
             this.textBoxUserId.TabIndex = 1;
-            this.textBoxUserId.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // buttonLogIn
             // 
@@ -81,6 +80,7 @@
             this.buttonLogIn.TabIndex = 2;
             this.buttonLogIn.Text = "SIGN IN ";
             this.buttonLogIn.UseVisualStyleBackColor = false;
+            this.buttonLogIn.Click += new System.EventHandler(this.buttonLogIn_Click);
             // 
             // label2
             // 
@@ -107,6 +107,7 @@
             this.textBoxPws.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxPws.Location = new System.Drawing.Point(42, 318);
             this.textBoxPws.Name = "textBoxPws";
+            this.textBoxPws.PasswordChar = '*';
             this.textBoxPws.Size = new System.Drawing.Size(316, 26);
             this.textBoxPws.TabIndex = 4;
             // 
